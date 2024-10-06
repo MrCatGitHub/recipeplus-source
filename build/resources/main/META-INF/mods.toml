@@ -1,0 +1,28 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="GNU Lesser General Public License version 3 (LGPLv3)"
+
+[[mods]]
+modId="mrcatrecipes"
+version="1.10"
+displayName="Mr. Cat's Recipe Mod"
+displayURL="https://modrinth.com/project/mr-cats-recipe-mod/versions"
+credits="Made By youtube.com/@MrCattt"
+authors="Mr. Cat"
+description="Adds some recipes I feel are missing from vanilla."
+
+# Start of user code block mod configuration
+# End of user code block mod configuration
+
+[[dependencies.mrcatrecipes]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1]"
+    ordering="AFTER"
+    side="BOTH"
+
+
+
+
+# Start of user code block dependencies configuration
+# End of user code block dependencies configuration

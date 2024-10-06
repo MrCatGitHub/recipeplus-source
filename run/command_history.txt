@@ -1,0 +1,2 @@
+/setblock ~ ~ ~ minecraft:crafting_table
+/time set 0

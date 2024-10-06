@@ -1,0 +1,154 @@
+{
+  "mod_elements": [
+    {
+      "name": "Gapple",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gapple",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/mrcatrecipes/recipes/gapple.json"
+        ]
+      }
+    },
+    {
+      "name": "Gapple2",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gapple_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/mrcatrecipes/recipes/gapple_2.json"
+        ]
+      }
+    },
+    {
+      "name": "Saddle",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "saddle",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/mrcatrecipes/recipes/saddle.json"
+        ]
+      }
+    },
+    {
+      "name": "WoolToString",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wool_to_string",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/mrcatrecipes/recipes/wool_to_string.json"
+        ]
+      }
+    },
+    {
+      "name": "SteveSkull",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "steve_skull",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/mrcatrecipes/recipes/steve_skull.json"
+        ]
+      }
+    },
+    {
+      "name": "OldFence",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "old_fence",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/mrcatrecipes/recipes/old_fence.json"
+        ]
+      }
+    },
+    {
+      "name": "ModInstalled",
+      "type": "achievement",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mod_installed",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/mrcatrecipes/advancements/mod_installed.json"
+        ]
+      }
+    },
+    {
+      "name": "ToolsmithsSellLava",
+      "type": "villagertrade",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "toolsmiths_sell_lava",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "NewEdition",
+      "type": "code",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "new_edition",
+      "metadata": {
+        "files": [
+          "src/main/java/ch/mrcat/recipes/NewEdition.java"
+        ]
+      }
+    },
+    {
+      "name": "WartBlockToWart",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wart_block_to_wart",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/mrcatrecipes/recipes/wart_block_to_wart.json"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {},
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {
+      "advancements.mod_installed.descr": "Installed \"Mr. Cat\u0027s Recipe Mod\"",
+      "advancements.mod_installed.title": "Installed!"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "mrcatrecipes",
+    "modName": "Mr. Cat\u0027s Recipe Mod",
+    "version": "1.10",
+    "description": "Adds some recipes I feel are missing from vanilla.",
+    "author": "Mr. Cat",
+    "websiteURL": "https://modrinth.com/project/mr-cats-recipe-mod/versions",
+    "license": "GNU Lesser General Public License version 3 (LGPLv3)",
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "neoforge-1.21.1",
+    "credits": "Made By youtube.com/@MrCattt",
+    "modElementsPackage": "ch.mrcat.recipes"
+  },
+  "mcreatorVersion": 202400340615
+}
